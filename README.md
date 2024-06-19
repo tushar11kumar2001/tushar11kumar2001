@@ -1,3 +1,4 @@
+![MasterHead](https://t3.ftcdn.net/jpg/03/32/21/56/240_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)
 <h1 align="center">Hi 👋, I'm Tushar kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -5,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar11kumar2001&label=Profile%20views&color=0e75b6&style=flat" alt="tushar11kumar2001" /> </p>
 
+- 🔭 I’m currently looking for Internship .
+
+- 🌱 I’m currently learning **ReactJs, Database**
+
+- 👯 I’m looking to collaborate on **Open Source**
+  
 - 👨‍💻 All of my projects are available at [exampe.com](exampe.com)
 
 - 💬 Ask me about **react,javascript,html,css,c++**
